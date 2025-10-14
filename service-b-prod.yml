@@ -1,0 +1,2 @@
+service:
+  message: "PROD message for Service B"

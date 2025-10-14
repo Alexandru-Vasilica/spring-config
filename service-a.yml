@@ -1,0 +1,3 @@
+service:
+  name: Service A
+  message: "Default message from Service A config"
